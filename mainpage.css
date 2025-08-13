@@ -1,0 +1,54 @@
+*{
+   margin: 0px;
+  padding: 0px; 
+}
+
+.obox{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(spicy.jpg);
+    background-size: no-repeat;
+    background-size: 1350px 650px;
+}
+#in1{
+    border: solid 1px hidden;
+    height: 50px;
+    
+}
+#in2{
+    border: solid 1px hidden;
+    height: 548px;
+}
+ul li{
+    border: solid 1px hidden;
+    height: 50px;
+    width: 160px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    color: black;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+}
+ul li:hover{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
